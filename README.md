@@ -6,6 +6,17 @@ I believe in Jesus.
 Here are some of the projects I am working on:
 - 🔭 [DS Creator](https://bowersindustry.github.io/ds-creator-docs/)
 - 🔭 [DS Virtual Pet](https://github.com/MakeYourDSGame/DS-Virtual-Pet)
+
+Here is some of the software I have created:
+- 🔭 [Kyle Code Maker]()
+- 🔭 [Notificationizer](https://bowersindustry.itch.io/notificationizer)
+
+Here is some of the games I have made:
+- 🔭 [PolyMars' Space Adventure](https://github.com/BowersIndustry/PolyMars-Game)
+- 🔭 [DeS](https://bowersindustry.itch.io/des)
+- 🔭 [Jet Pack Puppy](https://bowersindustry.itch.io/jet-pack-puppy) or [Jet pack Puppy Remastered](https://bowersindustry.itch.io/jet-pack-puppy-remastered)
+- 🔭 [ME:](https://bowersindustry.itch.io/me)
+- 🔭 [Fun Game!](https://bowersindustry.itch.io/fun-game)
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
