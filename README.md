@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hi There! 👋
+I am Kenyon Bowers. I make video games and software!
+I have made a couple games and am currently creating a game engien that gives anyone the ability to make DS games!
+I believe in Jesus.
 
 Here are some of the projects I am working on:
-
 - 🔭 [DS Creator](https://bowersindustry.github.io/ds-creator-docs/)
+- 🔭 [DS Virtual Pet](https://github.com/MakeYourDSGame/DS-Virtual-Pet)
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
