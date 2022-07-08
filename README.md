@@ -22,7 +22,7 @@ Here is some of the games I have made:
 ### Social Media:
 - 🔭 [YouTube](https://www.youtube.com/channel/UCpPIw9q3QlrpsNsurh2Tzjw)
 - 🔭 [DS Creator Discord](https://discord.com/invite/CqrXmqxAf8)
-- 🔭 [DS Game Maker Discord]([vx3g55EPT6](https://discord.com/invite/vx3g55EPT6))
+- 🔭 [DS Game Maker Discord](https://discord.com/invite/vx3g55EPT6)
 - 🔭 Discord Username: Bro. Kenyon#1492
 
 <!--
