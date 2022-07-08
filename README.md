@@ -12,6 +12,7 @@ Here is some of the software I have created:
 - 🔭 [Notificationizer](https://bowersindustry.itch.io/notificationizer)
 
 Here is some of the games I have made:
+- 🔭 [slime combine](https://bowersindustry.itch.io/slime-combine)
 - 🔭 [PolyMars' Space Adventure](https://github.com/BowersIndustry/PolyMars-Game)
 - 🔭 [DeS](https://bowersindustry.itch.io/des)
 - 🔭 [Jet Pack Puppy](https://bowersindustry.itch.io/jet-pack-puppy) or [Jet pack Puppy Remastered](https://bowersindustry.itch.io/jet-pack-puppy-remastered)
