@@ -18,6 +18,13 @@ Here is some of the games I have made:
 - 🔭 [Jet Pack Puppy](https://bowersindustry.itch.io/jet-pack-puppy) or [Jet pack Puppy Remastered](https://bowersindustry.itch.io/jet-pack-puppy-remastered)
 - 🔭 [ME:](https://bowersindustry.itch.io/me)
 - 🔭 [Fun Game!](https://bowersindustry.itch.io/fun-game)
+
+### Social Media:
+- 🔭 [YouTube](https://www.youtube.com/channel/UCpPIw9q3QlrpsNsurh2Tzjw)
+- 🔭 [DS Creator Discord](https://discord.gg/me2HggH76G)
+- 🔭 [DS Game Maker Discord](https://discord.gg/emC6CXnaSV)
+- 🔭 Discord Username: Bro. Kenyon#1492
+
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
