@@ -16,7 +16,7 @@ Here is some of the games I have made:
 - [Slime Combine](https://bowersindustry.itch.io/slime-combine)
 - [PolyMars' Space Adventure](https://github.com/BowersIndustry/PolyMars-Game)
 - [DeS](https://bowersindustry.itch.io/des)
-- [Jet Pack Puppy](https://bowersindustry.itch.io/jet-pack-puppy) or [Jet pack Puppy Remastered](https://bowersindustry.itch.io/jet-pack-puppy-remastered)
+- [Jet Pack Puppy](https://bowersindustry.itch.io/jet-pack-puppy) or [Jet Pack Puppy Remastered](https://bowersindustry.itch.io/jet-pack-puppy-remastered)
 - [ME:](https://bowersindustry.itch.io/me)
 - [Fun Game!](https://bowersindustry.itch.io/fun-game)
 
