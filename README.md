@@ -3,12 +3,12 @@ I am Kenyon Bowers. I make video games and software!
 I have made a couple games and am currently creating a game engien that gives anyone the ability to make DS games!
 I believe in Jesus.
 
-Here are some of the projects I am working on:
+Current Projects:
 - [DS Creator](https://bowersindustry.github.io/ds-creator-docs/)
 - [DS Virtual Pet](https://github.com/MakeYourDSGame/DS-Virtual-Pet)
 - [Keyin](https://github.com/bowersindustry/Keyin)
 
-Here is some of the software I have created:
+Software:
 - [Kyle Code Maker]()
 - [Notificationizer](https://bowersindustry.itch.io/notificationizer)
 
@@ -19,6 +19,12 @@ Here is some of the games I have made:
 - [Jet Pack Puppy](https://bowersindustry.itch.io/jet-pack-puppy) or [Jet pack Puppy Remastered](https://bowersindustry.itch.io/jet-pack-puppy-remastered)
 - [ME:](https://bowersindustry.itch.io/me)
 - [Fun Game!](https://bowersindustry.itch.io/fun-game)
+
+Discord Bots:
+- [Codex Eunice](https://bowersindustry.github.io/codex-eunice/)
+- DS Creator (the bot)
+- Rachelle
+- Hacker Bot
 
 ### Social Media:
 - [YouTube](https://www.youtube.com/channel/UCpPIw9q3QlrpsNsurh2Tzjw)
