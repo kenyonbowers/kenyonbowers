@@ -4,6 +4,7 @@ I have made a couple games and am currently creating a game engine that gives an
 I believe in Jesus.
 
 Current Projects:
+- [Scripture Alone](https://github.com/ItsShawn/scripturealone.app)
 - [DS Creator](https://bowersindustry.github.io/ds-creator-docs/)
 - [DS Virtual Pet](https://github.com/MakeYourDSGame/DS-Virtual-Pet)
 - [Keyin](https://github.com/bowersindustry/Keyin)
