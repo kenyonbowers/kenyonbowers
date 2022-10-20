@@ -28,7 +28,11 @@ Discord Bots:
 - Hacker Bot
 
 ### Social Media:
-- [YouTube](https://www.youtube.com/channel/UCpPIw9q3QlrpsNsurh2Tzjw)
+- [r/independentbaptists](https://reddit.com/r/independentbaptists/)
+- [Kenyon Bowers YouTube](https://www.youtube.com/channel/UCzPwM9B9OIZhTsWW7qF3-Cg/)
+- [BowersIndustry YouTube](https://www.youtube.com/channel/UCpPIw9q3QlrpsNsurh2Tzjw)
 - [DS Creator Discord](https://discord.com/invite/CqrXmqxAf8)
 - [DS Game Maker Discord](https://discord.com/invite/vx3g55EPT6)
+- [r/DSGameMaker](https://www.reddit.com/r/DSGameMaker/)
+- [r/dscreator](https://www.reddit.com/r/dscreator/)
 - Discord Username: Bro. Kenyon#1492
