@@ -1,6 +1,5 @@
 ### Hi There! 👋
-I am Kenyon Bowers. I make video games and software!
-I have made a couple games and am currently creating a game engine that gives anyone the ability to make DS games!
+I am Kenyon Bowers.
 I believe in Jesus.
 
 Current Projects:
