@@ -3,16 +3,15 @@ I am Kenyon Bowers.
 I believe in Jesus.
 
 Current Projects:
-- [Scripture Alone](https://github.com/ItsShawn/scripturealone.app)
-- [DS Creator](https://bowersindustry.github.io/ds-creator-docs/)
-- [DS Virtual Pet](https://github.com/MakeYourDSGame/DS-Virtual-Pet)
-- [Keyin](https://github.com/bowersindustry/Keyin)
+- [Scripture Alone](https://scripturealone.app)
+- [Hymnlify]()
 
 Discord Bots:
-- [Codex Eunice](https://bowersindustry.github.io/codex-eunice/)
+- [Codex Eunice](https://bowersindustry.github.io/codex-eunice)
+- [Cross Crusaders (bot)](https://discord.com/invite/wXRErZaXR9)
 
 ### Social Media:
-- [r/independentbaptists](https://reddit.com/r/independentbaptists/)
+- [r/independentbaptists](https://reddit.com/r/independentbaptists)
 - [Baptist Coding](https://discord.gg/mUB46Gkg)
-- [Kenyon Bowers YouTube](https://www.youtube.com/channel/UCzPwM9B9OIZhTsWW7qF3-Cg/)
+- [Kenyon Bowers YouTube](https://www.youtube.com/channel/UCzPwM9B9OIZhTsWW7qF3-Cg)
 - Discord Username: Bro. Kenyon#1492
