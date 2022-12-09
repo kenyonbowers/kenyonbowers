@@ -12,6 +12,6 @@ Discord Bots:
 
 ### Social Media:
 - [r/independentbaptists](https://reddit.com/r/independentbaptists)
-- [Baptist Coding](https://discord.gg/mUB46Gkg)
+- [Baptist Coding](https://discord.gg/9SBsB9syhe)
 - [Kenyon Bowers YouTube](https://www.youtube.com/@kenyonbowers)
 - Discord Username: Bro. Kenyon#1492
