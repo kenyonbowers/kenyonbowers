@@ -5,9 +5,10 @@ I believe in Jesus.
 Current Projects:
 - [Scripture Alone](https://scripturealone.app)
 - [Hymnlify]()
+- [Shield](https://github.com/kenyonbwrs/Shield)
 
 Discord Bots:
-- [Codex Eunice](https://bowersindustry.github.io/codex-eunice)
+- [Codex Eunice](https://kenyonbwrs.github.io/codex-eunice)
 - [Cross Crusaders (bot)](https://discord.com/invite/wXRErZaXR9)
 
 ### Social Media:
