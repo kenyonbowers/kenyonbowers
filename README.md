@@ -1,3 +1,9 @@
+<div id="badges">
+  <a href="https://youtube.com/@kenyonbowers">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+
 ### Hi There! 👋
 I am Kenyon Bowers.
 I believe in Jesus.
