@@ -9,6 +9,9 @@
     <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
 </div>
+<div id="langs" align="center">
+  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs)]()
+</div>
 
 ### Hi There! 👋
 I am Kenyon Bowers.
@@ -28,6 +31,3 @@ Discord Bots:
 - [Baptist Coding](https://discord.gg/9SBsB9syhe)
 - [Kenyon Bowers YouTube](https://www.youtube.com/@kenyonbowers)
 - Discord Username: Bro. Kenyon#1492
-
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs)]()
