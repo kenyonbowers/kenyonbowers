@@ -9,11 +9,12 @@
     <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
 </div>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs)]()
 
 ### Hi There! 👋
 I am Kenyon Bowers.
 I believe in Jesus.
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs)]()
 
 Current Projects:
 - [Scripture Alone](https://scripturealone.app)
