@@ -1,4 +1,4 @@
-<div id="profile_picture" align="center" width="100">
+<div id="profile_picture" align="center" width="12">
   <img src="https://avatars.githubusercontent.com/u/83834271?v=4" />
 </div>
 <div id="badges" align="center">
