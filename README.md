@@ -5,6 +5,9 @@
   <a href="https://youtube.com/@kenyonbowers">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <a href="https://www.reddit.com/user/SandwichDifferent953">
+    <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
+  </a>
 </div>
 
 ### Hi There! 👋
