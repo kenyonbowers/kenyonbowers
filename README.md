@@ -1,5 +1,5 @@
-<div id="profile_picture" align="center" width="12">
-  <img src="https://avatars.githubusercontent.com/u/83834271?v=4" />
+<div id="profile_picture" align="center">
+  <img src="https://avatars.githubusercontent.com/u/83834271?v=4" width="12" />
 </div>
 <div id="badges" align="center">
   <a href="https://youtube.com/@kenyonbowers">
