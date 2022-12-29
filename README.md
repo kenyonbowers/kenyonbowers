@@ -10,6 +10,7 @@
   </a>
 </div>
 <div id="langs" align="center">
+  <iframe src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs"></iframe>
   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs)]()
 </div>
 
