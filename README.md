@@ -16,3 +16,6 @@ Discord Bots:
 - [Baptist Coding](https://discord.gg/9SBsB9syhe)
 - [Kenyon Bowers YouTube](https://www.youtube.com/@kenyonbowers)
 - Discord Username: Bro. Kenyon#1492
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs)](https://github.com/kenyonbwrs/github-readme-stats)
