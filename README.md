@@ -15,7 +15,7 @@ I am Kenyon Bowers.
 I believe in Jesus.
 
 ## GitHub Stats:
-[![](http://github-readme-streak-stats.herokuapp.com?user=kenyonbwrs&theme=light&background=ffffff)](https://git.io/streak-stats)
+[![](http://github-readme-streak-stats.herokuapp.com?user=kenyonbwrs&theme=light&background=ffffff)]()
 ##
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs)]()
 
