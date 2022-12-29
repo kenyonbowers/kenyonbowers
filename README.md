@@ -18,4 +18,4 @@ Discord Bots:
 - Discord Username: Bro. Kenyon#1492
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs)](https://github.com/kenyonbwrs/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs)]()
