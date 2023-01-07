@@ -18,7 +18,7 @@ I believe in Jesus.
 [![](http://github-readme-streak-stats.herokuapp.com?user=kenyonbwrs&theme=light&background=ffffff)](https://github.com/kenyonbwrs)
 ##
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs)]()
-
+##
 Current Projects:
 - [Scripture Alone](https://scripturealone.app)
 - [Hymnlify]()
