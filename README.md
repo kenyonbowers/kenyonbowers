@@ -26,7 +26,7 @@ Current Projects:
 
 Discord Bots:
 - [Codex Eunice](https://kenyonbwrs.github.io/codex-eunice)
-- [Cross Crusaders (bot)](https://discord.com/invite/wXRErZaXR9)
+- [Cross Crusaders (bot)](https://github.com/kenyonbwrs/Cross-Crusaders-Bot)
 
 ### Social Media:
 - [r/independentbaptists](https://reddit.com/r/independentbaptists)
