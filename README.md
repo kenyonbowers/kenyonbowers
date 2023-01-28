@@ -8,6 +8,9 @@
   <a href="https://www.reddit.com/user/SandwichDifferent953">
     <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
+  <a href="https://kenyonbwrs.github.io">
+    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge" alt="Website Badge"/>
+  </a>
 </div>
 
 ### Hi There! 👋
@@ -19,17 +22,21 @@ I believe in Jesus.
 ##
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs)
 
-## Current Projects:
+# Current Projects:
 - [Scripture Alone](https://scripturealone.app)
 - [Hymnlify]()
 - [Shield](https://github.com/kenyonbwrs/Shield)
 
-## Discord Bots:
+# Discord Bots:
 - [Codex Eunice](https://kenyonbwrs.github.io/codex-eunice)
 - [Cross Crusaders (bot)](https://github.com/kenyonbwrs/Cross-Crusaders-Bot)
 
-## Social Media:
-- [r/independentbaptists](https://reddit.com/r/independentbaptists)
-- [Baptist Coding](https://discord.gg/9SBsB9syhe)
-- [YouTube](https://www.youtube.com/@kenyonbowers)
-- Discord Username: Bro. Kenyon#1492
+# Social Media:
+### YouTube:
+- [Kenyon Bowers (YouTube)](https://www.youtube.com/@kenyonbowers)
+### Discord:
+- [Baptist Coding (Discord)](https://discord.gg/9SBsB9syhe)
+- Bro. Kenyon#1492 (Discord)
+### Reddit:
+- [r/independentbaptists (Reddit)](https://reddit.com/r/independentbaptists)
+- [SandwichDifferent953 (Reddit)](https://www.reddit.com/user/SandwichDifferent953)
