@@ -16,11 +16,15 @@
 ### Hi There! 👋
 I am Kenyon Bowers. I believe in Jesus.
 # My Favorite Verses:
-1 Timothy 4:12 - Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity.
+**1 Timothy 4:12** - Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity.
 
-2 Timothy 2:15 - Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.
+**2 Timothy 2:15** - Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.
 
-John 3:16 - For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+**John 3:16** - For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+
+**Psalms 28:7** - The LORD is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.
+
+
 #
 ## GitHub Stats:
 ![](http://github-readme-streak-stats.herokuapp.com?user=kenyonbwrs&theme=light&background=ffffff)
