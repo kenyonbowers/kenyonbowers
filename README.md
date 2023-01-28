@@ -15,20 +15,20 @@ I am Kenyon Bowers.
 I believe in Jesus.
 
 ## GitHub Stats:
-[![](http://github-readme-streak-stats.herokuapp.com?user=kenyonbwrs&theme=light&background=ffffff)](https://github.com/kenyonbwrs)
+![](http://github-readme-streak-stats.herokuapp.com?user=kenyonbwrs&theme=light&background=ffffff)
 ##
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs)]()
-##
-Current Projects:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs)
+
+## Current Projects:
 - [Scripture Alone](https://scripturealone.app)
 - [Hymnlify]()
 - [Shield](https://github.com/kenyonbwrs/Shield)
 
-Discord Bots:
+## Discord Bots:
 - [Codex Eunice](https://kenyonbwrs.github.io/codex-eunice)
 - [Cross Crusaders (bot)](https://github.com/kenyonbwrs/Cross-Crusaders-Bot)
 
-### Social Media:
+## Social Media:
 - [r/independentbaptists](https://reddit.com/r/independentbaptists)
 - [Baptist Coding](https://discord.gg/9SBsB9syhe)
 - [YouTube](https://www.youtube.com/@kenyonbowers)
