@@ -42,10 +42,10 @@ I am Kenyon Bowers. I believe in Jesus.
 
 # Social Media:
 ### YouTube:
-- [Kenyon Bowers (YouTube)](https://www.youtube.com/@kenyonbowers)
+- [Kenyon Bowers](https://www.youtube.com/@kenyonbowers)
 ### Discord:
-- [Baptist Coding (Discord)](https://discord.gg/9SBsB9syhe)
-- Bro. Kenyon#1492 (Discord)
+- [Baptist Coding](https://discord.gg/9SBsB9syhe)
+- Bro. Kenyon#1492
 ### Reddit:
-- [r/independentbaptists (Reddit)](https://reddit.com/r/independentbaptists)
-- [SandwichDifferent953 (Reddit)](https://www.reddit.com/user/SandwichDifferent953)
+- [r/independentbaptists](https://reddit.com/r/independentbaptists)
+- [SandwichDifferent953](https://www.reddit.com/user/SandwichDifferent953)
