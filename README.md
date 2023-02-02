@@ -33,7 +33,7 @@ I am Kenyon Bowers. I believe in Jesus.
 
 # Current Projects:
 - [Scripture Alone](https://scripturealone.app)
-- [Shield](https://github.com/kenyonbwrs/Shield)
+- [Shield](https://github.com/kenyonbwrs/shield)
 
 # Discord Bots:
 - [Codex Eunice](https://kenyonbwrs.github.io/codex-eunice)
