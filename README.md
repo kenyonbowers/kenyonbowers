@@ -24,6 +24,8 @@ I am Kenyon Bowers. I believe in Jesus.
 
 **Psalms 28:7** - The LORD is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.
 
+**Isaiah 41:10** - Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.
+
 
 #
 ## GitHub Stats:
