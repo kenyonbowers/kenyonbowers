@@ -43,7 +43,7 @@ I am Kenyon Bowers. I believe in Jesus.
 
 # Social Media:
 ### YouTube:
-- [Kenyon Bowers](https://www.youtube.com/@kenyonbowers)
+- [No Longer Bound](https://www.youtube.com/@NoLongerBound)
 ### Discord:
 - [Baptist Coding](https://discord.gg/9SBsB9syhe)
 - Bro. Kenyon#1492
