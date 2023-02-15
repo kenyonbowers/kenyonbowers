@@ -29,10 +29,11 @@ I am Kenyon Bowers. I believe in Jesus.
 
 #
 ## GitHub Stats:
-![](http://github-readme-streak-stats.herokuapp.com?user=kenyonbwrs&theme=light&background=ffffff)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kenyonbwrs&theme=light#gh-light-only)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kenyonbwrs&theme=dark#gh-dark-only)
 ##
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs&theme=light#gh-light-only)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs&theme=dark#gh-dark-only)
 # Current Projects:
 - [Scripture Alone](https://scripturealone.app)
 - [Shield](https://github.com/kenyonbwrs/shield)
