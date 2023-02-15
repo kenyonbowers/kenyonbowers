@@ -29,11 +29,21 @@ I am Kenyon Bowers. I believe in Jesus.
 
 #
 ## GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=kenyonbwrs&theme=light&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kenyonbwrs&theme=dark&layout=compact)
+
+<picture>
+  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=kenyonbwrs&theme=light" media="(prefers-color-scheme: light)"></source>
+  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=kenyonbwrs&theme=dark" media="(prefers-color-scheme: dark)"></source>
+  <img src="#">
+</picture>
+
 ##
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs&theme=light#gh-light-only)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs&theme=dark#gh-dark-only)
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs&theme=light&layout=compact" media="(prefers-color-scheme: light)"></source>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs&theme=dark&layout=compact" media="(prefers-color-scheme: dark)"></source>
+  <img src="#">
+</picture>
+
 # Current Projects:
 - [Scripture Alone](https://scripturealone.app)
 - [Shield](https://github.com/kenyonbwrs/shield)
