@@ -2,13 +2,13 @@
   <img src="https://avatars.githubusercontent.com/u/83834271?v=4" width="150" />
 </div>
 <div id="badges" align="center">
-  <a target="_blank" href="https://youtube.com/@kenyonbowers">
+  <a target="_blank" href="https://youtube.com/@NoLongerBound">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a target="_blank" href="https://www.reddit.com/user/SandwichDifferent953">
+  <a target="_blank" href="https://reddit.com/user/SandwichDifferent953">
     <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
-  <a target="_blank" href="https://kenyonbwrs.github.io">
+  <a target="_blank" href="https://kenyonbowers.github.io">
     <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge" alt="Website Badge"/>
   </a>
 </div>
@@ -31,26 +31,26 @@ I am Kenyon Bowers. I believe in Jesus.
 ## GitHub Stats:
 
 <picture>
-  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=kenyonbwrs&theme=light" media="(prefers-color-scheme: light)"></source>
-  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=kenyonbwrs&theme=dark" media="(prefers-color-scheme: dark)"></source>
+  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=kenyonbowers&theme=light" media="(prefers-color-scheme: light)"></source>
+  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=kenyonbowers&theme=dark" media="(prefers-color-scheme: dark)"></source>
   <img src="#">
 </picture>
 
 ##
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs&theme=light&layout=compact" media="(prefers-color-scheme: light)"></source>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbwrs&theme=dark&layout=compact" media="(prefers-color-scheme: dark)"></source>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbowers&theme=light&layout=compact" media="(prefers-color-scheme: light)"></source>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbowers&theme=dark&layout=compact" media="(prefers-color-scheme: dark)"></source>
   <img src="#">
 </picture>
 
 # Current Projects:
 - [Scripture Alone](https://scripturealone.app)
-- [Shield](https://github.com/kenyonbwrs/shield)
+- [Shield](https://github.com/kenyonbowers/shield)
 
 # Discord Bots:
-- [Codex Eunice](https://kenyonbwrs.github.io/codex-eunice)
-- [Cross Crusaders (bot)](https://github.com/kenyonbwrs/Cross-Crusaders-Bot)
+- [Codex Eunice](https://kenyonbowers.github.io/codex-eunice)
+- [Cross Crusaders (bot)](https://github.com/CrossCrusaders/CrossCrusadersBot)
 
 # Social Media:
 ### YouTube:
@@ -60,4 +60,4 @@ I am Kenyon Bowers. I believe in Jesus.
 - Bro. Kenyon#1492
 ### Reddit:
 - [r/independentbaptists](https://reddit.com/r/independentbaptists)
-- [SandwichDifferent953](https://www.reddit.com/user/SandwichDifferent953)
+- [SandwichDifferent953](https://reddit.com/user/SandwichDifferent953)
