@@ -26,6 +26,8 @@ I am Kenyon Bowers. I believe in Jesus.
 
 **Isaiah 41:10** - Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.
 
+**Romans 8:31** - What shall we then say to these things? If God be for us, who can be against us?
+
 
 #
 ## GitHub Stats:
