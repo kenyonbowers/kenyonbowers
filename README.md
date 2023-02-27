@@ -28,6 +28,8 @@ I am Kenyon Bowers. I believe in Jesus.
 
 **Romans 8:31** - What shall we then say to these things? If God be for us, who can be against us?
 
+**Ecclesiastes 12:1** - Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;
+
 
 #
 ## GitHub Stats:
