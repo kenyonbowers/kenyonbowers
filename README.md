@@ -55,6 +55,8 @@ I am Kenyon Bowers. I believe in Jesus.
 # Discord Bots:
 - [Codex Eunice](https://kenyonbowers.github.io/codex-eunice)
 - [Cross Crusaders (bot)](https://github.com/CrossCrusaders/CrossCrusadersBot)
+- [King James Bible](https://github.com/kenyonbowers/King-James-Bible-Bot)
+
 
 # Social Media:
 ### YouTube:
