@@ -15,7 +15,7 @@
 
 ### Hi There! 👋
 I am Kenyon Bowers. I believe in Jesus.
-# My Favorite Verses:
+# My Favorite Bible Verses:
 **1 Timothy 4:12** - Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity.
 
 **2 Timothy 2:15** - Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.
