@@ -14,7 +14,7 @@
 </div>
 
 ### Hi There! 👋
-I am Kenyon Bowers. I believe in Jesus.
+I am Kenyon Bowers. I believe in Jesus. I'm a born again, Jesus believing, Independent Fundamental Baptist, Christian.
 # My Favorite Bible Verses:
 **1 Timothy 4:12** - Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity.
 
