@@ -61,7 +61,6 @@ I am Kenyon Bowers. I believe in Jesus. I'm a born again, Jesus believing, Indep
 ### YouTube:
 - [No Longer Bound](https://www.youtube.com/@NoLongerBound)
 ### Discord:
-- [Baptist Coding](https://discord.gg/9SBsB9syhe)
 - Bro. Kenyon#1492
 ### Reddit:
 - [r/independentbaptists](https://reddit.com/r/independentbaptists)
