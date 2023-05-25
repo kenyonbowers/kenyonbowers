@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/83834271?v=4" width="150" />
 </div>
 <div id="badges" align="center">
-  <a target="_blank" href="https://youtube.com/@NoLongerBound">
+  <a target="_blank" href="https://youtube.com/@KenyonBowers">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a target="_blank" href="https://reddit.com/user/SandwichDifferent953">
@@ -59,7 +59,7 @@ I am Kenyon Bowers. I believe in Jesus. I'm a born again, Jesus believing, Indep
 
 # Social Media:
 ### YouTube:
-- [No Longer Bound](https://www.youtube.com/@NoLongerBound)
+- [Kenyon Bowers](https://www.youtube.com/@KenyonBowers)
 ### Discord:
 - Bro. Kenyon#1492
 ### Reddit:
