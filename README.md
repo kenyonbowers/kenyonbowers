@@ -61,7 +61,7 @@ I am Kenyon Bowers. I believe in Jesus. I'm a born again, Jesus believing, Indep
 ### YouTube:
 - [Kenyon Bowers](https://www.youtube.com/@KenyonBowers)
 ### Discord:
-- Bro. Kenyon#1492
+- @kenyonbowers
 ### Reddit:
 - [r/independentbaptists](https://reddit.com/r/independentbaptists)
 - [SandwichDifferent953](https://reddit.com/user/SandwichDifferent953)
