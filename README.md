@@ -5,15 +5,12 @@
   <a target="_blank" href="https://youtube.com/@KenyonBowers">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a target="_blank" href="https://reddit.com/user/SandwichDifferent953">
-    <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
-  </a>
   <a target="_blank" href="https://kenyonbowers.github.io">
     <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge" alt="Website Badge"/>
   </a>
 </div>
 
-### Hi There! 👋
+### Hi there! 👋
 I am Kenyon Bowers. I believe in Jesus. I'm a born again, Jesus believing, Independent Fundamental Baptist, Christian.
 # My Favorite Bible Verses:
 **Psalms 28:7** - The LORD is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.
