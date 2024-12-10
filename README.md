@@ -3,62 +3,26 @@
 </div>
 <div id="badges" align="center">
   <a target="_blank" href="https://youtube.com/@KenyonBowers">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a target="_blank" href="https://kenyonbowers.github.io">
-    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge" alt="Website"/>
   </a>
 </div>
 
 ### Hi there! 👋
 I am Kenyon Bowers. I believe in Jesus. I'm a born again, Jesus believing, Independent Fundamental Baptist, Christian.
-# My Favorite Bible Verses:
-**Psalms 28:7** - The LORD is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.
 
-**Isaiah 41:10** - Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.
+**"The LORD is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him." (Psalms 28:7)**
 
-**Ecclesiastes 12:1** - Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;
 
-**John 3:16** - For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
-
-**Romans 8:31** - What shall we then say to these things? If God be for us, who can be against us?
-
-**1 Timothy 4:12** - Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity.
-
-**2 Timothy 2:15** - Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.
-
-#
-## GitHub Stats:
-
-<picture>
-  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=kenyonbowers&theme=light" media="(prefers-color-scheme: light)"></source>
-  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=kenyonbowers&theme=dark" media="(prefers-color-scheme: dark)"></source>
-  <img src="#">
-</picture>
-
-##
-
+# GitHub Stats:
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbowers&theme=light&layout=compact" media="(prefers-color-scheme: light)"></source>
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbowers&theme=dark&layout=compact" media="(prefers-color-scheme: dark)"></source>
   <img src="#">
 </picture>
 
-# Current Projects:
-- [Scripture Alone](https://scripturealone.app)
-- [Shield](https://github.com/kenyonbowers/shield)
 
 # Discord Bots:
-- [Codex Eunice](https://kenyonbowers.github.io/codex-eunice)
-- [Cross Crusaders (bot)](https://github.com/CrossCrusaders/CrossCrusadersBot)
-- [King James Bible](https://github.com/kenyonbowers/King-James-Bible-Bot)
-
-
-# Social Media:
-### YouTube:
-- [Kenyon Bowers](https://www.youtube.com/@KenyonBowers)
-### Discord:
-- @kenyonbowers
-### Reddit:
-- [r/independentbaptists](https://reddit.com/r/independentbaptists)
-- [SandwichDifferent953](https://reddit.com/user/SandwichDifferent953)
+- [King James Bible](https://github.com/kenyonbowers/King-James-Bible-Bot): A simple Bible bot.
