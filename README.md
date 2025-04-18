@@ -15,6 +15,8 @@ I am Kenyon Bowers. I believe in Jesus. I'm a born again, Jesus believing, Indep
 
 **"The LORD is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him." (Psalms 28:7)**
 
+# Current Project:
+I am currently working on a Bible translation app called (name is a work in progress) Textus Translatus. This app will allow translators and missionaries to translate God's Word from the original languages more easily. Lord willing, there will be many translation resources included in the app to make the process easier. Pray for God's blessing on this project!
 
 # GitHub Stats:
 <picture>
