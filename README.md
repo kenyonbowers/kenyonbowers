@@ -18,6 +18,13 @@ I am Kenyon Bowers. I believe in Jesus. I'm a born again, Jesus believing, Indep
 # Current Project:
 I am currently working on a Bible translation app called (name is a work in progress) Textus Translatus. This app will allow translators and missionaries to translate God's Word from the original languages more easily. Lord willing, there will be many translation resources included in the app to make the process easier. Pray for God's blessing on this project!
 
+# Programming Languages:
+- C
+- JavaScript
+- TypeScript
+- Python
+- Dart (learning)
+
 # GitHub Stats:
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbowers&theme=light&layout=compact" media="(prefers-color-scheme: light)"></source>
