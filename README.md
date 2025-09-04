@@ -16,14 +16,13 @@ I am Kenyon Bowers. I believe in Jesus. I'm a born again, Jesus believing, Indep
 **"The LORD is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him." (Psalms 28:7)**
 
 # Current Project:
-I am currently working on a Bible translation app called (name is a work in progress) Textus Translatus. This app will allow translators and missionaries to translate God's Word from the original languages more easily. Lord willing, there will be many translation resources included in the app to make the process easier. Pray for God's blessing on this project!
+—————
 
 # Programming Languages:
 - C
 - JavaScript
 - TypeScript
 - Python
-- Dart (learning)
 
 # GitHub Stats:
 <picture>
@@ -31,7 +30,3 @@ I am currently working on a Bible translation app called (name is a work in prog
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyonbowers&theme=dark&layout=compact" media="(prefers-color-scheme: dark)"></source>
   <img src="#">
 </picture>
-
-
-# Discord Bots:
-- [King James Bible](https://github.com/kenyonbowers/King-James-Bible-Bot): A simple Bible bot.
